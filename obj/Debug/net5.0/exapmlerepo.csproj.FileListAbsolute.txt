@@ -1,0 +1,16 @@
+C:\Users\kolby\source\repos\exapmlerepo\bin\Debug\net5.0\exapmlerepo.exe
+C:\Users\kolby\source\repos\exapmlerepo\bin\Debug\net5.0\exapmlerepo.deps.json
+C:\Users\kolby\source\repos\exapmlerepo\bin\Debug\net5.0\exapmlerepo.runtimeconfig.json
+C:\Users\kolby\source\repos\exapmlerepo\bin\Debug\net5.0\exapmlerepo.runtimeconfig.dev.json
+C:\Users\kolby\source\repos\exapmlerepo\bin\Debug\net5.0\exapmlerepo.dll
+C:\Users\kolby\source\repos\exapmlerepo\bin\Debug\net5.0\ref\exapmlerepo.dll
+C:\Users\kolby\source\repos\exapmlerepo\bin\Debug\net5.0\exapmlerepo.pdb
+C:\Users\kolby\source\repos\exapmlerepo\obj\Debug\net5.0\exapmlerepo.csproj.AssemblyReference.cache
+C:\Users\kolby\source\repos\exapmlerepo\obj\Debug\net5.0\exapmlerepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolby\source\repos\exapmlerepo\obj\Debug\net5.0\exapmlerepo.AssemblyInfoInputs.cache
+C:\Users\kolby\source\repos\exapmlerepo\obj\Debug\net5.0\exapmlerepo.AssemblyInfo.cs
+C:\Users\kolby\source\repos\exapmlerepo\obj\Debug\net5.0\exapmlerepo.csproj.CoreCompileInputs.cache
+C:\Users\kolby\source\repos\exapmlerepo\obj\Debug\net5.0\exapmlerepo.dll
+C:\Users\kolby\source\repos\exapmlerepo\obj\Debug\net5.0\ref\exapmlerepo.dll
+C:\Users\kolby\source\repos\exapmlerepo\obj\Debug\net5.0\exapmlerepo.pdb
+C:\Users\kolby\source\repos\exapmlerepo\obj\Debug\net5.0\exapmlerepo.genruntimeconfig.cache
